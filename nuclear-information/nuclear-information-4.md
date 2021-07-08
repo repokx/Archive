@@ -56,7 +56,7 @@ $$ \varepsilon = \frac{\Delta E}{E} = \frac{2.35\sigma}{E} = \frac{全能峰半�
 >
 > $$ \lambda = \frac{A}{N_A\sigma_{abs}} $$
 >
-> The lateral shower development does not scale with $\lambda$.
+> The lateral shower development does not scale with $$\lambda$$.
 
 ---
 
