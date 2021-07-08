@@ -250,5 +250,5 @@ $$
 
 锰-56 核从基态进⾏ $$\beta^-$$ 衰变，发射三组 $$\beta$$ 粒⼦达到⼦核 铁-56 的激发态，它们的最⼤动能分别为 0.72 MeV，1.05 MeV，2.85 MeV，伴随着衰变所发射的 $$\gamma$$ 射线能量有 0.84 MeV，1.81 MeV，2.14 MeV，2.65 MeV 和 2.98 MeV，试计算并画出⼦核的能级图。
 
-![energy_level](/assets/img/nuc_info/energy_level.png)
+![energy_level](https://z3.ax1x.com/2021/07/08/ROXRpD.png)
 

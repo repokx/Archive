@@ -102,7 +102,7 @@ NaI(Tl)闪烁探测器的能量分辨率优于 BGO 闪烁探测器是由于前�
 
 ### C. 计算题
 
-![ch-new-cal](/assets/img/nuc_info/ch-new-cal.png)
+![ch-new-cal](https://z3.ax1x.com/2021/07/08/ROX5nA.png)
 
 ---
 

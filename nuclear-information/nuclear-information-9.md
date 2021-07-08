@@ -106,5 +106,5 @@ sort: 7
 
 时间仓促，此处附上截图，待有机会再补全。
 
-![ch-9-cals](/assets/img/nuc_info/ch-9-cals.png)
+![ch-9-cals](https://z3.ax1x.com/2021/07/08/ROXo7t.png)
 

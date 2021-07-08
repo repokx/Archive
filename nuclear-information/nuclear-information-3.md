@@ -163,7 +163,7 @@ $$\begin{cases}E>E_c,&\ 轫致辐射损失为主 \\E<Ec, &\ 电离损失为主 \
 
 2. solution
 
-   ![ph-elec_effect](/assets/img/nuc_info/ph-elec_effect.jpg)
+   ![ph-elec_effect](https://z3.ax1x.com/2021/07/08/ROXW1e.jpg)
    
    上图描述了氩原子的光电效应。那么我们有如下的计算
    
@@ -181,7 +181,7 @@ $$\begin{cases}E>E_c,&\ 轫致辐射损失为主 \\E<Ec, &\ 电离损失为主 \
    
    若以下图中的数据进行详细计算：
    
-   ![ar-ph-discrp](/assets/img/nuc_info/ar-ph-discrp.png)
+   ![ar-ph-discrp](https://z3.ax1x.com/2021/07/08/ROXf6H.png)
    
    $$h\nu = 5.9\ keV,\quad E_{all} = E_1+E_2=5.33 eV$$
    
