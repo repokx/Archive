@@ -23,5 +23,5 @@
 
 不断完善中
 
-[**我的博客**](https://repo-kristx.github.io/)
+[**我的博客**](https://repokx.github.io/)
 
